@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DavidGDA
+- 👀 I’m interested in learning web development
+- 🌱 I’m currently learning React Native
