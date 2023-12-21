@@ -1,2 +1,3 @@
-- Desarrollo de videojuegos Unity y sitios web
+- Desarrollo de videojuegos con Unity y desarrollador de sitios web
+- Hago uso de Flask, Django y NodeJS para la creación de apps web 
 - actualmente aprendiendo React
