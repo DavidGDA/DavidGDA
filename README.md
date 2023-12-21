@@ -1,3 +1,2 @@
-Alo
-- Full desarrollo de formularios y sitios web
-- actualmente aprendiendo React Native
+- Desarrollo de videojuegos Unity y sitios web
+- actualmente aprendiendo React
