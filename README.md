@@ -1,3 +1,4 @@
 - Desarrollo de videojuegos con Unity y desarrollador de sitios web
-- Hago uso de Flask, Django y NodeJS para la creación de apps web 
+- Desarrollo en Flask, Django y NodeJS para la creación de apps web
+- Manejo de bases de datos MySQL, SQLite, PostgreSQL
 - actualmente aprendiendo React
