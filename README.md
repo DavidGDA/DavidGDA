@@ -1,7 +1,6 @@
-#  IT'S ME! DAVID
-
-- Desarrollo de videojuegos con Unity y desarrollador de sitios web
-- Desarrollo en Flask, Django y NodeJS para la creación de apps web
+# 🙋‍♂️ IT'S ME! DAVID
+-  Desarrollo en Flask, Django y NodeJS para la creación de apps web
+- 🎮 Desarrollo de videojuegos con Unity
 - Manejo de bases de datos MySQL, SQLite, PostgreSQL
 - actualmente aprendiendo React
 
