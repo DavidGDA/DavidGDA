@@ -1,7 +1,13 @@
 # 🙋‍♂️ IT'S ME! DAVID
-- 🌐 Desarrollo en Flask, Django y NodeJS para la creación de apps web
-- 🎮 Desarrollo de videojuegos con Unity
-- 💻 Desarrollo de apps de escritorio para sistemas operativos Windows con C# .NET
+
+Soy un joven desarrollador de apps de escritorio y web, de videojuegos, apasionado en el mundo de la programación y siempre aprendiz de las diversas tecnologías existentes.
+
+Actualmente estudiante de ingeniería en computación, he desarrollado diferentes proyectos personales en búsqueda de desarrollar herramientas útiles para todos.
+
+## Áreas de desarrollo:
+- 🌐 Desarrollador fullstack de aplicaciones web
+- 🎮 Desarrollador de videojuegos 2D en Unity
+- 💻 Desarrollador de apps de escritorio para sistemas operativos Windows con C# .NET
 
 ## Tecnologías que utilizo
 
