@@ -63,6 +63,6 @@ También estoy dispuesto a colaborar en equipo, cuento de disciplina y constanci
 
 ##
 
-![GitHub](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Stats](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidGDA&show_icons=true&theme=transparent)
