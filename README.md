@@ -66,3 +66,9 @@ También estoy dispuesto a colaborar en equipo, cuento de disciplina y constanci
 ![GitHub Stats](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![GitHub stats graph](https://github-readme-stats.vercel.app/api?username=DavidGDA&show_icons=true&theme=transparent)
+
+##
+
+![GitHub Streak logo](https://img.shields.io/badge/github_streak-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DavidGDA)](https://git.io/streak-stats)
