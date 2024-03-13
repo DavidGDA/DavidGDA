@@ -2,8 +2,7 @@
 
 Soy un joven desarrollador de apps de escritorio, apps web y videojuegos, apasionado en el mundo de la programación y siempre aprendiz de las diversas tecnologías existentes.
 
-Actualmente estudiante de ingeniería en computación, he desarrollado diferentes proyectos personales en búsqueda de desarrollar herramientas útiles para todos.
-También estoy dispuesto a colaborar en equipo, cuento de disciplina y constancia para lograr cualquier objetivo planteado.
+Actualmente estudiante de ingeniería en computación, he desarrollado diferentes proyectos personales en búsqueda de desarrollar herramientas útiles para todos, estoy dispuesto a colaborar en equipo, cuento de disciplina y constancia para lograr cualquier objetivo planteado.
 
 ## Áreas de desarrollo:
 - 🌐 Desarrollador fullstack de aplicaciones web
