@@ -6,7 +6,6 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 ## Áreas de desarrollo:
 - 🌐 Desarrollador fullstack de aplicaciones web
-- 🎮 Desarrollador de videojuegos 2D en Unity
 - 💻 Desarrollador de apps de escritorio para sistemas operativos Windows con C# .NET
 
 ## Tecnologías que utilizo
@@ -26,7 +25,6 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 **También desarrollo con:**
 
