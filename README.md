@@ -69,3 +69,5 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 ![GitHub streak logo](https://img.shields.io/badge/github_streak-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 [![GitHub streak](https://streak-stats.demolab.com/?user=DavidGDA)](https://git.io/streak-stats)
+
+[![](https://visitcount.itsvg.in/api?id=DavidGDA&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
