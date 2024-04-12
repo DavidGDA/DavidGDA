@@ -1,4 +1,4 @@
-# 🙋‍♂️ IT'S ME! DAVID💲
+# 🙋‍♂️ IT'S ME! DAVID
 
 Soy un joven desarrollador de apps de escritorio, apps web y videojuegos, apasionado en el mundo de la programación y siempre aprendiz de las diversas tecnologías existentes.
 
