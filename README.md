@@ -38,7 +38,7 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ChatGPT API](https://img.shields.io/badge/chatGPT_API-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-**He realizado apps con estos sistemas de bases de datos:**
+**He realizado apps con estos gestores de bases de datos:**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
