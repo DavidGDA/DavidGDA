@@ -58,10 +58,7 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-##
-
-
-|![GitHub Stats](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|![GitHub Streak](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
+|![GitHub Stats](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|![GitHub Streak](https://img.shields.io/badge/github%20streak-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 |:--------------------------------------|:----------------------------------------------|
 |![GitHub stats graph](https://github-readme-stats.vercel.app/api?username=DavidGDA&show_icons=true&theme=transparent)|[![GitHub streak](https://streak-stats.demolab.com/?user=DavidGDA&theme=transparent)](https://git.io/streak-stats)|
 
