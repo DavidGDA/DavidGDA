@@ -8,7 +8,7 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 - 🌐 Desarrollador fullstack de aplicaciones web
 - 💻 Desarrollador de apps de escritorio para sistemas operativos Windows con C# .NET
 
-## Tecnologías que utilizo
+## Tech Stack
 
 **Lenguajes:**
 
