@@ -63,10 +63,14 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+|![GitHub Stats](https://img.shields.io/badge/CodeFU_User-A51C30?style=for-the-badge&logo=github&logoColor=white)|![GitHub Stats](https://img.shields.io/badge/Github_profile_views-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
+|:--------------------------------------:|:----------------------------------------------:|
+|![CodeFU](https://prueba-badge-readme.vercel.app/badge.svg)|[![Visit Counter](https://visitcount.itsvg.in/api?id=DavidGDA&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)|
+
 |![GitHub Stats](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|![GitHub Streak](https://img.shields.io/badge/github%20streak-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 |:--------------------------------------|:----------------------------------------------|
 |![GitHub stats graph](https://github-readme-stats.vercel.app/api?username=DavidGDA&show_icons=true&theme=transparent)|[![GitHub streak](https://streak-stats.demolab.com/?user=DavidGDA&theme=transparent)](https://git.io/streak-stats)|
 
 ![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidGDA&custom_title=DavidGDA%20GitHub%20Activity%20Graph&bg_color=0D1117&color=002050&line=203354&point=203354&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-[![Visit Counter](https://visitcount.itsvg.in/api?id=DavidGDA&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
