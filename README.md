@@ -16,7 +16,7 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 **Lenguajes aprendidos:**
 
@@ -28,6 +28,7 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 **Despliego apps web en:**
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 
 **Desarrollo principalmente con:**
 
@@ -46,11 +47,9 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SocketIO](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?&style=for-the-badge&logo=discord&logoColor=white)
-![ChatGPT API](https://img.shields.io/badge/chatGPT_API-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&labelColor=52B0E7&logoColor=FFF)
 
@@ -65,7 +64,7 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 |![GitHub Stats](https://img.shields.io/badge/CodeFU_User-A51C30?style=for-the-badge&logo=github&logoColor=white)|![GitHub Stats](https://img.shields.io/badge/Github_profile_views-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 |:--------------------------------------:|:----------------------------------------------:|
-|![CodeFU](https://prueba-badge-readme.vercel.app/badge.svg)|[![Visit Counter](https://visitcount.itsvg.in/api?id=DavidGDA&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)|
+|![CodeFU](https://code-fu-readme-badge.onrender.com)|[![Visit Counter](https://visitcount.itsvg.in/api?id=DavidGDA&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)|
 
 |![GitHub Stats](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|![GitHub Streak](https://img.shields.io/badge/github%20streak-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 |:--------------------------------------:|:----------------------------------------------:|
