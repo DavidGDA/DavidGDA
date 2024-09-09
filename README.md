@@ -64,7 +64,7 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 |![GitHub Stats](https://img.shields.io/badge/CodeFU_User-A51C30?style=for-the-badge&logo=github&logoColor=white)|![GitHub Stats](https://img.shields.io/badge/Github_profile_views-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 |:--------------------------------------:|:----------------------------------------------:|
-|![CodeFU](https://code-fu-readme-badge.onrender.com)|[![Visit Counter](https://visitcount.itsvg.in/api?id=DavidGDA&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)|
+![CodeFU](https://prueba-badge-readme.vercel.app/badge.svg)|[![Visit Counter](https://visitcount.itsvg.in/api?id=DavidGDA&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)|
 
 |![GitHub Stats](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|![GitHub Streak](https://img.shields.io/badge/github%20streak-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 |:--------------------------------------:|:----------------------------------------------:|
