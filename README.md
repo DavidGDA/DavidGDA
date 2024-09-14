@@ -70,6 +70,6 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 |:--------------------------------------:|:----------------------------------------------:|
 |![GitHub stats graph](https://github-readme-stats.vercel.app/api?username=DavidGDA&show_icons=true&theme=transparent)|[![GitHub streak](https://streak-stats.demolab.com/?user=DavidGDA&theme=transparent)](https://git.io/streak-stats)|
 
-![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidGDA&custom_title=DavidGDA%20GitHub%20Activity%20Graph&bg_color=0D1117&color=002050&line=203354&point=203354&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidGDA&custom_title=DavidGDA%20GitHub%20Activity%20Graph&bg_color=0D1117&color=002050&line=203354&point=203354&area_color=FFFFFF&title_color=FFFFFF&area=false)
 
 
