@@ -25,6 +25,7 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 **Despliego apps web en:**
 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 
@@ -38,6 +39,7 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **También desarrollo con:**
 
@@ -53,6 +55,9 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?&style=for-the-badge&logo=discord&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&labelColor=52B0E7&logoColor=FFF)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-white.svg?style=for-the-badge&logo=Puppeteer&logoColor=black)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 **IDE'S que utilizo:**
 
@@ -63,9 +68,9 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-|![GitHub Stats](https://img.shields.io/badge/CodeFU_User-A51C30?style=for-the-badge&logo=github&logoColor=white)|Vacio|
+|![GitHub Stats](https://img.shields.io/badge/CodeFU_User-A51C30?style=for-the-badge&logo=github&logoColor=white)|![GitHub visitors](https://img.shields.io/badge/github%20visitors-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 |:--------------------------------------:|:----------------------------------------------:|
-![CodeFU staff](https://code-fu-readme-badge-1c0198600f3b.herokuapp.com/badges/dalvarez.svg)|Vacio|
+![CodeFU staff](https://code-fu-readme-badge-1c0198600f3b.herokuapp.com/badges/dalvarez.svg)|![Visitors count](https://komarev.com/ghpvc/?username=DavidGDA&label=Profile%20views&color=blue&style=for-the-badge)|
 
 |![GitHub Stats](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|![GitHub Streak](https://img.shields.io/badge/github%20streak-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 |:--------------------------------------:|:----------------------------------------------:|
