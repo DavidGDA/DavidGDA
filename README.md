@@ -68,7 +68,7 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-| ![GitHub Stats](https://img.shields.io/badge/CodeFU_User-A51C30?style=for-the-badge&logo=github&logoColor=white) | ![GitHub visitors](https://img.shields.io/badge/github%20visitors-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| ![GitHub Stats](https://img.shields.io/badge/CodeFU_User-A51C30?style=for-the-badge&logo=github&logoColor=white) | ![Languages](https://img.shields.io/badge/Most%20used%20languages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 | :--------------------------------------:|:----------------------------------------------: |
 | ![CodeFU staff](https://code-fu-readme-badge-1c0198600f3b.herokuapp.com/badges/dalvarez.svg) |  ![GitHub stats graph](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGDA&show_icons=true&theme=transparent) |
 
