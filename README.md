@@ -74,7 +74,7 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 | ![Languages badge](https://img.shields.io/badge/Most%20used%20languages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![GitHub streak badge](https://img.shields.io/badge/github_streak-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 | :--------------------------------------:|:----------------------------------------------: |
-| ![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGDA&show_icons=true&theme=transparent) | [![GitHub streak](https://streak-stats.demolab.com/?user=DavidGDA&theme=transparent)](https://git.io/streak-stats) |
+| ![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGDA&show_icons=true&theme=transparent) | [![GitHub streak](https://github-readme-streak-stats-eight.vercel.app/?user=DavidGDA&theme=transparent)](https://git.io/streak-stats) |
 
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=DavidGDA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidGDA&custom_title=DavidGDA%20GitHub%20Activity%20Graph&bg_color=0D1117&color=002050&line=203354&point=203354&area_color=FFFFFF&title_color=FFFFFF&area=true)
