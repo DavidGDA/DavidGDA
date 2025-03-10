@@ -68,13 +68,13 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-| ![GitHub Stats](https://img.shields.io/badge/CodeFU_User-A51C30?style=for-the-badge&logo=github&logoColor=white) | ![Languages](https://img.shields.io/badge/Most%20used%20languages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| ![CodeFU user](https://img.shields.io/badge/CodeFU_User-A51C30?style=for-the-badge&logo=github&logoColor=white) | ![GitHub stats badge](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 | :--------------------------------------:|:----------------------------------------------: |
-| ![CodeFU staff](https://code-fu-readme-badge-1c0198600f3b.herokuapp.com/badges/dalvarez.svg) |  ![GitHub stats graph](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGDA&show_icons=true&theme=transparent) |
+| ![CodeFU staff](https://code-fu-readme-badge-1c0198600f3b.herokuapp.com/badges/dalvarez.svg) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidGDA&show_icons=true&theme=transparent) |
 
-| ![GitHub Stats](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![GitHub Streak](https://img.shields.io/badge/github%20streak-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| ![Languages badge](https://img.shields.io/badge/Most%20used%20languages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![GitHub streak badge](https://img.shields.io/badge/github_streak-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 | :--------------------------------------:|:----------------------------------------------: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidGDA&show_icons=true&theme=transparent) | [![GitHub streak](https://streak-stats.demolab.com/?user=DavidGDA&theme=transparent)](https://git.io/streak-stats) |
+| ![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGDA&show_icons=true&theme=transparent) | [![GitHub streak](https://streak-stats.demolab.com/?user=DavidGDA&theme=transparent)](https://git.io/streak-stats) |
 
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=DavidGDA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidGDA&custom_title=DavidGDA%20GitHub%20Activity%20Graph&bg_color=0D1117&color=002050&line=203354&point=203354&area_color=FFFFFF&title_color=FFFFFF&area=true)
