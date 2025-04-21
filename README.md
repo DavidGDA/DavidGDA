@@ -87,7 +87,7 @@ Actualmente estudiante de ingeniería en computación, estoy dispuesto a colabor
 
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Github stats and others
+## Estadisticas de github y otros
 
 ![Github profile views](https://komarev.com/ghpvc/?username=DavidGDA&style=for-the-badge&label=visitas+al+perfil&abbreviated=true)
 
