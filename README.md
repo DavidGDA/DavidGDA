@@ -93,10 +93,10 @@ Actualmente, soy estudiante de Ingeniería en Computación. Estoy dispuesto a co
 
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=DavidGDA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-| <!-- -->                                | <!-- -->                                        |
-| :--------------------------------------:|:----------------------------------------------: |
+| | |
+| :---: | :---: |
 | ![CodeFU staff](https://code-fu-readme-badge-1c0198600f3b.herokuapp.com/badges/dalvarez.svg) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidGDA&show_icons=true&theme=transparent) |
 
-| <!-- -->                                | <!-- -->                                        |
-| :--------------------------------------:|:----------------------------------------------: |
+| | |
+| :---: | :---: |
 | ![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGDA&show_icons=true&theme=transparent) | [![GitHub streak](https://github-readme-streak-stats-eight.vercel.app/?user=DavidGDA&theme=transparent)](https://git.io/streak-stats) |
