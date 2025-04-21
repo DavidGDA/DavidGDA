@@ -1,8 +1,8 @@
 # 🙋‍♂️ IT'S ME! DAVID
 
-Soy un joven desarrollador de apps de escritorio y web, administrador de servidores y DevOps apasionado en el mundo de la programación y siempre aprendiz de las diversas tecnologías existentes, hago uso de herramientas de desarrollo las cuales me han permitido ir desarrollando varios proyectos personales con el objetivo de brindar herramientas útiles para todos.
+Soy un joven desarrollador de aplicaciones de escritorio y web, administrador de servidores y DevOps, apasionado por el mundo de la programación y siempre aprendiz de las diversas tecnologías existentes. Hago uso de herramientas de desarrollo que me han permitido crear varios proyectos personales con el objetivo de brindar soluciones útiles para todos.
 
-Actualmente estudiante de ingeniería en computación, estoy dispuesto a colaborar en equipo, cuento de disciplina y constancia para lograr cualquier objetivo planteado.
+Actualmente, soy estudiante de Ingeniería en Computación. Estoy dispuesto a colaborar en equipo y cuento con la disciplina y constancia necesarias para lograr cualquier objetivo planteado.
 
 ## Áreas de desarrollo
 
@@ -87,7 +87,7 @@ Actualmente estudiante de ingeniería en computación, estoy dispuesto a colabor
 
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Estadisticas de Github y otros
+## Estadísticas de Github y otros
 
 ![Github profile views](https://komarev.com/ghpvc/?username=DavidGDA&style=for-the-badge&label=visitas+al+perfil&abbreviated=true)
 
