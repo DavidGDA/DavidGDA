@@ -1,13 +1,15 @@
 # 🙋‍♂️ IT'S ME! DAVID
 
-Soy un joven desarrollador de apps de escritorio y web, apasionado en el mundo de la programación y siempre aprendiz de las diversas tecnologías existentes.
+Soy un joven desarrollador de apps de escritorio y web, administrador de servidores y DevOps apasionado en el mundo de la programación y siempre aprendiz de las diversas tecnologías existentes, hago uso de herramientas de desarrollo las cuales me han permitido ir desarrollando varios proyectos personales con el objetivo de brindar herramientas útiles para todos.
 
-Actualmente estudiante de ingeniería en computación, he desarrollado diferentes proyectos personales en búsqueda de desarrollar herramientas útiles para todos, estoy dispuesto a colaborar en equipo, cuento de disciplina y constancia para lograr cualquier objetivo planteado.
+Actualmente estudiante de ingeniería en computación, estoy dispuesto a colaborar en equipo, cuento de disciplina y constancia para lograr cualquier objetivo planteado.
 
 ## Áreas de desarrollo
 
-- 🌐 Desarrollador fullstack de aplicaciones web
-- 💻 Desarrollador de apps de escritorio para sistemas operativos Windows con C# .NET
+- 🌐 Desarrollador fullstack de aplicaciones web (React, NextJS, Express, Django, FastAPI)
+- 💻 Desarrollador de apps de escritorio (Qt, WinForms)
+- ⚙️ DevOps (CI/CD, Docker, Heroku, Vercel, Render)
+- 🖥️ Administración de servidores (Nginx)
 
 ## Tech Stack
 
@@ -19,20 +21,32 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frameworks y Librerías:**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET Windows forms](https://img.shields.io/badge/.NET%20Windows%20forms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![.NET Windows forms](https://img.shields.io/badge/.NET%20Windows%20forms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)
+
+**Servidores Web:**
+
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+**DevOps y Herramientas de Despliegue:**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 
 **Bases de Datos:**
 
@@ -45,18 +59,16 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&labelColor=52B0E7&logoColor=FFF)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-**DevOps y Herramientas de Despliegue:**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
-
 **Herramientas de Desarrollo y Script:**
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-white.svg?style=for-the-badge&logo=Puppeteer&logoColor=black)
+
+**OCR y Reconocimiento de Texto:**
+
+![Tesseract](https://img.shields.io/badge/Tesseract-green?style=for-the-badge&logo=tesseract)
+![PyTesseract](https://img.shields.io/badge/PyTeserract-green?style=for-the-badge&logo=python&logoColor=white)
 
 **Otras Herramientas:**
 
@@ -75,13 +87,16 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-| ![CodeFU user](https://img.shields.io/badge/CodeFU_User-A51C30?style=for-the-badge&logo=github&logoColor=white) | ![GitHub stats badge](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+## Github stats and others
+
+![Github profile views](https://komarev.com/ghpvc/?username=DavidGDA&style=for-the-badge&label=visitas+al+perfil&abbreviated=true)
+
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=DavidGDA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+| <!-- -->                                | <!-- -->                                        |
 | :--------------------------------------:|:----------------------------------------------: |
 | ![CodeFU staff](https://code-fu-readme-badge-1c0198600f3b.herokuapp.com/badges/dalvarez.svg) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidGDA&show_icons=true&theme=transparent) |
 
-| ![Languages badge](https://img.shields.io/badge/Most%20used%20languages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![GitHub streak badge](https://img.shields.io/badge/github_streak-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| <!-- -->                                | <!-- -->                                        |
 | :--------------------------------------:|:----------------------------------------------: |
 | ![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGDA&show_icons=true&theme=transparent) | [![GitHub streak](https://github-readme-streak-stats-eight.vercel.app/?user=DavidGDA&theme=transparent)](https://git.io/streak-stats) |
-
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=DavidGDA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidGDA&custom_title=DavidGDA%20GitHub%20Activity%20Graph&bg_color=0D1117&color=002050&line=203354&point=203354&area_color=FFFFFF&title_color=FFFFFF&area=true)
