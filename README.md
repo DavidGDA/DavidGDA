@@ -2,7 +2,7 @@
 
 Soy un joven desarrollador apasionado por el mundo de la programación y siempre aprendiz de las diversas tecnologías existentes. Hago uso de herramientas de desarrollo que me han permitido crear varios proyectos personales con el objetivo de brindar soluciones útiles para todos.
 
-Actualmente, soy estudiante de Ingeniería en Computación. Estoy dispuesto a colaborar en equipo y cuento con la disciplina y constancia necesarias para lograr cualquier objetivo planteado.
+Actualmente, soy desarrollador web en fundación uno y estudiante de Ingeniería en Computación. Estoy dispuesto a colaborar en equipo y cuento con la disciplina y constancia necesarias para lograr cualquier objetivo planteado.
 
 ## Áreas de desarrollo
 
