@@ -53,7 +53,7 @@ Actualmente, soy desarrollador web en Fundación Uno y estudiante de Ingeniería
 
 **OCR:**  
 ![Tesseract](https://img.shields.io/badge/Tesseract-green?style=for-the-badge&logo=tesseract)
-![PyTesseract](https://img.shields.io/badge/PyTeserract-yellow?style=for-the-badge&logo=python&logoColor=white)
+![PyTesseract](https://img.shields.io/badge/PyTeserract-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## Estadísticas de Github y otros
 
