@@ -28,6 +28,8 @@ Actualmente, soy desarrollador web en Fundación Uno y estudiante de Ingeniería
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![QT](https://img.shields.io/badge/Qt-green?style=for-the-badge&logo=qt&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-blue?style=for-the-badge&logo=windows&logoColor=white)
 
 **Contenedores y DevOps:**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -36,8 +38,9 @@ Actualmente, soy desarrollador web en Fundación Uno y estudiante de Ingeniería
 
 **Servidores y Hosting:**  
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-black.svg?style=for-the-badge&logo=Render&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 **Bases de Datos y ORM:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
