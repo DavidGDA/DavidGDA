@@ -6,9 +6,9 @@ Actualmente, soy desarrollador web en Fundación Uno y estudiante de Ingeniería
 
 ## Áreas de desarrollo
 
-- 🌐 Desarrollo web y de escritorio
+- 🌐💻 Desarrollo web y de escritorio
 - ⚙️ DevOps
-- 🖥️ Administración de servidores
+- 🖥 Administración de servidores
 
 ## Tech Stack
 
