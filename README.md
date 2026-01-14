@@ -5,7 +5,7 @@ Soy un desarrollador apasionado por el mundo de la programación y la tecnologí
 ## Sobre mí
 
 - 🧠💻 Cuento con experiencia en desarrollo web backend
-- 🛠️🔗 Me especializo en la creación y mantenimiento de APIs RESTful y servicios web 🌐
+- 🛠️🌐 Me especializo en la creación y mantenimiento de APIs RESTful y servicios web
 - 🧰☁️ Tengo habilidades en DevOps y administración de servidores
 - 🤖🔁 Me encanta automatizar procesos y optimizar flujos de trabajo
 - 📚🌱 Estoy siempre dispuesto a aprender nuevas tecnologías y mejorar mis habilidades
