@@ -1,6 +1,6 @@
 # 🙋‍♂️ IT'S ME! DAVID
 
-Soy un joven desarrollador apasionado por el mundo de la programación y la tecnología.
+Soy un desarrollador apasionado por el mundo de la programación y la tecnología.
 
 - Cuento con experiencia en desarrollo web backend.
 
@@ -58,7 +58,7 @@ Soy un joven desarrollador apasionado por el mundo de la programación y la tecn
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Estadísticas de Github y otros
+## Estadísticas de Github
 
 ![Github profile views](https://komarev.com/ghpvc/?username=DavidGDA&style=for-the-badge&label=visitas+al+perfil&abbreviated=true)
 
