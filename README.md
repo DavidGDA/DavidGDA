@@ -2,6 +2,8 @@
 
 Soy un desarrollador apasionado por el mundo de la programación y la tecnología.
 
+## Sobre mí
+
 - Cuento con experiencia en desarrollo web backend.
 
 - Me especializo en la creación y mantenimiento de APIs RESTful y servicios web.
@@ -11,14 +13,6 @@ Soy un desarrollador apasionado por el mundo de la programación y la tecnologí
 - Me encanta automatizar procesos y optimizar flujos de trabajo.
 
 - Estoy siempre dispuesto a aprender nuevas tecnologías y mejorar mis habilidades.
-
-## Áreas de desarrollo
-
-- 🌐💻 Desarrollo web backend
-
-- ⚙️ DevOps
-
-- 🖥 Administración de servidores
 
 ## Tech Stack
 
