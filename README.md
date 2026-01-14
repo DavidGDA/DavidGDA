@@ -1,18 +1,14 @@
 # 🙋‍♂️ IT'S ME! DAVID
 
-Soy un desarrollador apasionado por el mundo de la programación y la tecnología.
+Soy un desarrollador apasionado por el mundo de la programación y la tecnología. Vivo en Managua, Nicaragua 🇳🇮, y me encanta crear soluciones innovadoras que faciliten la vida de las personas a través del código.
 
 ## Sobre mí
 
-- Cuento con experiencia en desarrollo web backend.
-
-- Me especializo en la creación y mantenimiento de APIs RESTful y servicios web.
-
-- Tengo habilidades en DevOps y administración de servidores.
-
-- Me encanta automatizar procesos y optimizar flujos de trabajo.
-
-- Estoy siempre dispuesto a aprender nuevas tecnologías y mejorar mis habilidades.
+- 🧠💻 Cuento con experiencia en desarrollo web backend
+- 🛠️🔗 Me especializo en la creación y mantenimiento de APIs RESTful y servicios web 🌐
+- 🧰☁️ Tengo habilidades en DevOps y administración de servidores
+- 🤖🔁 Me encanta automatizar procesos y optimizar flujos de trabajo
+- 📚🌱 Estoy siempre dispuesto a aprender nuevas tecnologías y mejorar mis habilidades
 
 ## Tech Stack
 
