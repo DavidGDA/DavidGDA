@@ -1,10 +1,10 @@
 # 🙋‍♂️ IT'S ME! DAVID
 
-Soy un desarrollador apasionado por el mundo de la programación y la tecnología. Vivo en Managua, Nicaragua 🇳🇮, y me encanta crear soluciones innovadoras que faciliten la vida de las personas a través del código.
+Apasionado por el mundo de la tecnología, una de las cosas que más me gusta es construir un mundo mejor desde un teclado y mouse.
 
 ## Sobre mí
 
-- 🛠️🌐 Me especializo en devops y administración de servidores linux
+- 🛠️🌐 Me especializo en DevOps y administración de servidores
 - 🧠💻 Cuento con experiencia en desarrollo web backend y administración de bases de datos
 - 🤖🔁 Me encanta automatizar procesos y optimizar flujos de trabajo
 - 📚🌱 Estoy siempre dispuesto a aprender nuevas tecnologías y mejorar mis habilidades
@@ -17,6 +17,7 @@ Soy un desarrollador apasionado por el mundo de la programación y la tecnologí
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![K3s](https://img.shields.io/badge/K3S-FFC61C?style=for-the-badge&logo=k3s&logoColor=black)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
@@ -28,6 +29,12 @@ Soy un desarrollador apasionado por el mundo de la programación y la tecnologí
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Redes**
+
+![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 
 **Monitoreo y Logging:**
 
@@ -67,4 +74,3 @@ Soy un desarrollador apasionado por el mundo de la programación y la tecnologí
 
 ![Github profile views](https://komarev.com/ghpvc/?username=DavidGDA&style=for-the-badge&label=visitas+al+perfil&abbreviated=true)
 
-[![Github Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=DavidGDA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
