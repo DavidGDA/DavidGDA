@@ -1,6 +1,6 @@
 # 🙋‍♂️ IT'S ME! DAVID
 
-Apasionado por el mundo de la tecnología, una de las cosas que más me gusta es construir un mundo mejor desde un teclado y mouse.
+Apasionado por el mundo de la tecnología, una de las cosas que más me gustan es construir un mundo mejor desde un teclado y mouse.
 
 ## Sobre mí
 
